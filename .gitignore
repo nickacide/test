@@ -1,5 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.vscode/
 node_modules
+src/__tests__/
 package-lock.json
 lib/
-src/__tests__
-.vscode/
