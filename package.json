@@ -5,7 +5,6 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "ci": "npm i --package-lock-only && npm install",
     "build": "tsc",
     "test": "jest --config jestconfig.json",
     "deploy": "npm run format && npm run lint",
